@@ -1,13 +1,13 @@
 [tool.poetry]
-name = "mkdocs-asyncapi-plugin"
+name = "mkdocs-asyncapi-html-plugin"
 version = "0.2.0"
 description = "mkdocs plugin to generate pages from asyncapi spec files"
-authors = ["YushiOMOTE <yushiomote@gmail.com>"]
+authors = ["hani <hani@regentmarkets.com>"]
 license = "MIT"
 readme = "README.md"
-homepage = "https://github.com/yushiomote/mkdocs-asyncapi-plugin"
-repository = "https://github.com/yushiomote/mkdocs-asyncapi-plugin"
-documentation = "https://github.com/yushiomote/mkdocs-asyncapi-plugin"
+homepage = "https://github.com/hani-deriv/mkdocs-asyncapi-plugin"
+repository = "https://github.com/hani-deriv/mkdocs-asyncapi-plugin"
+documentation = "https://github.com/hani-deriv/mkdocs-asyncapi-plugin"
 keywords = ["mkdocs", "asyncapi", "plugin", "python"]
 classifiers = [
     "Development Status :: 3 - Alpha",
